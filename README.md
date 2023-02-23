@@ -1,2 +1,2 @@
-# platformer
-Just a pygame final project made for Digi Nepal - 2079
+# Platformer
+Just a pygame final project made for Digi School Nepal - 2079
