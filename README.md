@@ -22,9 +22,9 @@ Pygame can be install by following command using terminal.
 1. Use git clone.
 Open the directory where you want to download the game and run the following command in your terminal.
 
-    ``git clone https://github.com/crystalbajgai/platformer.git``
+    ``git clone https://github.com/crystalbajgai/zack.git``
 
 2. Download from release tab.
-https://github.com/crystalbajgai/platformer/releases/download/Release/zack22.zip
+https://github.com/crystalbajgai/zack22/releases/download/Release/zack22.zip
 
-### If you encounter any issues just open a issue at https://github.com/crystalbajgai/platformer/issues
+### If you encounter any issues just open a issue at https://github.com/crystalbajgai/zack22/issues
