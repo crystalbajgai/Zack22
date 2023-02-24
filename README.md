@@ -25,6 +25,6 @@ Open the directory where you want to download the game and run the following com
     ``git clone https://github.com/crystalbajgai/zack22.git``
 
 2. Download from release tab.
-https://github.com/crystalbajgai/zack22/releases/download/Release/zack22.zip
+https://github.com/crystalbajgai/Zack22/releases/download/Release/Zack22.zip
 
-### If you encounter any issues just open a issue at https://github.com/crystalbajgai/zack22/issues
+#### If you encounter any issues just open a issue at https://github.com/crystalbajgai/zack22/issues
